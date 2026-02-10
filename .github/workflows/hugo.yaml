@@ -50,6 +50,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --source $(realpath "./site") \
             --themesDir $(realpath "./themes") \
+            --theme velocrush \
             --destination $(realpath "./public")
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
