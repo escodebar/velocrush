@@ -1,0 +1,6 @@
+.direnv
+.hugo_build.lock
+.secrets
+public
+.DS_Store
+.idea
