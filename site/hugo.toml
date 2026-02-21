@@ -4,14 +4,11 @@ title = 'Velo Crush'
 theme = 'velocrush'
 sectionPagesMenu = 'main'
 
-[params]
-  tagline = 'Wir lieben Velos! Veloladen und Reparaturwerkstatt.'
-  [params.company]
-    name = 'Velo Crush'
-    legal-form = 'GmbH'
-  [params.contact]
-    email = 'info@velocrush.ch'
-    street = 'Zweierstrasse 56'
-    zip = 'CH-8004'
-    city = 'Zürich'
-    phone = '077 242 47 64'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
