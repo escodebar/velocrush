@@ -47,7 +47,6 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --source $(realpath "./site") \
             --themesDir $(realpath "./themes") \
             --theme velocrush \
