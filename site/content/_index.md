@@ -25,7 +25,7 @@ Sunday closed
 
 ## Wir lieben Velos! Veloladen und Reparaturwerkstatt.
 
-Wir bei Velo Crush teilen eine große Leidenschaft für Velos – besonders für die
+Wir bei Velo Crush teilen eine grosse Leidenschaft für Velos – besonders für die
 klassischen Mountainbikes der 90er Jahre! Diese robusten Allrounder bieten
 alles, was du für die Stadt oder für eine lange Bikepacking-Tour brauchst. Wir
 restaurieren alte Rahmen mit viel Liebe, indem wir sie entweder komplett neu
